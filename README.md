@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWU1bXhsN2NzOTVtenBwd2xqdTQzNXppMjE0ZWd5Z2Z2bGk0c2k3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZuHYyLfbWpPeo/giphy.gif"  />
+</div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rioo.zzy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rio Zazaly) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mriozazaly@gmail.com) 
